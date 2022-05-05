@@ -110,3 +110,5 @@ class Gepjarmu:
                 return self.hatotav - self.szakaszKm
                 
             
+print("szia")
+
